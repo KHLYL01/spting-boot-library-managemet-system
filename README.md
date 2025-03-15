@@ -27,6 +27,6 @@ mvn spring-boot:run
 ```
 5. To test api use basic authentication
 ```
-user: admin
-password: admin
+Username: admin
+Password: admin
 ```
